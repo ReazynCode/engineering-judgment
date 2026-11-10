@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Judgment"
+  short_description: "Think independently before architecture planning"
+  default_prompt: "Use $engineering-judgment within my planning workflow before proposing an architecture."
